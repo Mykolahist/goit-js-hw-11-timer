@@ -1,0 +1,24 @@
+.timer {
+  display: flex;
+  justify-content: center;
+  color: rgb(240, 18, 18);
+}
+.field {
+  display: block;
+}
+.value {
+  margin-bottom: 15px;
+  font-family: 'Dela Gothic One', sans-serif;
+  font-size: 100px;
+}
+.field {
+  display: block;
+}
+.label {
+  display: block;
+  text-align: center;
+  font-family: 'Dela Gothic One', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  margin-right: 30px;
+}
